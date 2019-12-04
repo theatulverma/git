@@ -1,0 +1,28 @@
+git installation 
+https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-18-04-quickstart
+https://help.ubuntu.com/lts/serverguide/git.html
+
+https://www.youtube.com/watch?v=sBTAkHOxvOk&list=PLhW3qG5bs-L8OlICbNX9u4MZ3rAt5c5GG&index=3
+
+-get init test
+-git status
+-git add
+-git commit -m "..... "
+
+create file
+-dir > index.html
+-git add .
+-git commit -m "added index.html | modified test,txt
+-git status
+
+remote:
+
+git remote add origin https://github.com/theatulverma/server.git
+
+-git push -u orgin master
+
+-git config --global user.email "er.atulverma@hotmail.com"
+
+-git config --global user.name "theatulverma"
+-git log
+-git --help
