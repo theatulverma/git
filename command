@@ -25,3 +25,6 @@ http://guides.beanstalkapp.com/version-control/common-git-commands.html
 
 
 https://www.youtube.com/watch?v=26XUuvGPKl8
+
+
+https://www.youtube.com/watch?v=3_OC6bJr5bc
